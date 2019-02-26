@@ -1,10 +1,19 @@
+div.border{
+
+	border-image: url(border.jpg);
+	border-image-repeat: repeat;
+}
+
+
+
+
 body{
-background-color: #42f492;
-	
+background-color: #add3d3;
+
 }
 div.head { 
  text-align: center;
-background-color: #42f492;
+background-color: #add3d3;
 
  }
  
@@ -33,4 +42,10 @@ font-size: 42px
 
 font-size: 20;
 text-align:center;
+ }
+
+ div.pics{
+padding: 40px;
+
+
  }

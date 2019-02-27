@@ -44,8 +44,10 @@ font-size: 20;
 text-align:center;
  }
 
- div.pics{
-padding: 40px;
+.pics{
 
+float: left;
+padding: 25px;
+}
 
- }
+box-sizing: border-box;.pics;

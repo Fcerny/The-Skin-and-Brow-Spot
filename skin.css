@@ -61,17 +61,13 @@ border-color: #f442b3;
 }
 
 .alignedb{
-font-size: 20px;
-
+font-size: 23px;
+text-align: center;
+color: #f442b3;
+font-weight: bold; 
 }
 div.aligneda{
-border-style: dashed;
-border-color: #f442b3;
-border-width: 2px;
-text-align: center;
-margin-left: 555px;
-margin-right: 555px;
-color: #f442b3;
+
 }
 
 h3{
